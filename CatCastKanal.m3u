@@ -78,6 +78,7 @@ https://stream.ftv.az/live/ftv.m3u8
 #EXTGRP:Azerbaycan
 https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFpA0zL.png", Rihat TV
+#EXTGRP:Azerbaycan
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65
 #EXTGRP:Azerbaycan
@@ -145,7 +146,7 @@ https://v2.catcast.tv/content/50373/seg-25480049-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerKomedi Деревня Дураков"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b36fc31801.png",PlayerKomedi Деревня Дураков
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50369/seg-25478087-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/01022026/banners/50428-697f52a21d758.png",PlayerWWE
+#EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b47525faf6.png",PlayerWWE
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50428/seg-25528453-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerZevqMusic"tvg-logo="https://i.ibb.co/JRCv313Q/Chat-GPT-Image-27-2026-14-01-39.png",PlayerZevqMusic
@@ -163,9 +164,6 @@ https://v2.catcast.tv/content/50364/seg-25467687-v1-a1/index.m3u8
 #EXTINF:-1 tvg-name="PlayerGencMusic"tvg-logo="https://i.ibb.co/mrwyfCpC/Chat-GPT-Image-26-2026-14-09-51.png",PlayerGencMusic
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50366/seg-25468540-v1-a1/index.m3u8
-#EXTINF:-1 tvg-name="PlayerWWE"tvg-logo="https://img.catcast.tv/uploads/10022026/logos/27208-698b47525faf6.png",PlayerWWE
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/50428/seg-25528453-v1-a1/index.m3u8
 
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV music
 #EXTGRP:Azerbaycan
@@ -227,6 +225,9 @@ https://v2.catcast.tv/content/50265/seg-25409976-v1-a1/index.m3u8
 #EXTINF:-1,Music Tv Az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50359/seg-25555275-v1-a1/index.m3u8
+#EXTINF:-1,ALVIN Music
+#EXTGRP:Azerbaycan
+https://v2.catcast.tv/content/39199/seg-25409987-v1-a1/index.m3u8
 #EXTINF:-1 tvg-logo="http://assets.tvcdn.net/debb1b49-4809-413b-8418-6c176181a1d6.png", AzStar
 #EXTGRP:Azerbaycan
 http://live.azstartv.com/azstar/azstar_720p/tracks-v1a1/mono.m3u8
@@ -300,9 +301,6 @@ https://v2.catcast.tv/content/50178/seg-25410254-v1-a1/index.m3u8
 #EXTINF:-1,Alvin Ovcu
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/39200/seg-25409961-v1-a1/index.m3u8
-#EXTINF:-1,ALVIN Music
-#EXTGRP:Azerbaycan
-https://v2.catcast.tv/content/39199/seg-25409987-v1-a1/index.m3u8
 #EXTINF:-1, 4Music Azerbaycan tezlikle
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48700/seg-25410915-v1-a1/index.m3u8
