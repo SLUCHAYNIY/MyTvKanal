@@ -80,6 +80,8 @@ https://rtmp.showplus.tv/hls/myshow.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/wFpA0zL.png", Rihat TV
 #EXTGRP:Azerbaycan
 https://cdn4.yayin.com.tr/rihattv/tracks-v1a1/mono.m3u8
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/ydy7DCw5/1762835780517.png"  group-title="Azerbaycan", HTV sinema
+http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563779
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/158M5w7V/1768336784567.png", kanal 65
 #EXTGRP:Azerbaycan
 http://blackaksari54.xyz:8080/Burak160125/JLWMEF74/563740
