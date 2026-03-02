@@ -94,6 +94,9 @@ http://cdn10-alvinchannel.yayin.com.tr/alvinchannel/alvinchannel/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/R0Z5jL1w/photo-5386795171908882253-m-removebg-preview.png", Alvin Ovcu TV
 #EXTGRP:Azerbaycan
 http://catcast.ismailturret.workers.dev/alvinovcu.m3u8
+#EXTINF:-1 tvg-logo="https://i.imgur.com/hArNy1Q.png", mr.bean
+#EXTGRP:Azerbaycan
+https://catcast.ismailturret.workers.dev/mrbean.m3u8
 #EXTINF:-1 tvg-name="MEGA Saban"tvg-logo="https://img.catcast.tv/uploads/04062025/banners/48695-683f783bd2ce8.png",MEGA Saban
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48695/seg-25460342-v1-a1/index.m3u8
@@ -2308,3 +2311,24 @@ https://cdn-dvr.ntv.ru/Balabol/tracks-v1a1/rewind-240.ts.m3u8
 #EXTINF:-1 group-title="RUS" tvg-logo="https://cdn2-static.ntv.ru/home/schedule/2025/20251021/5minut_vert.jpg",НТВ Сериалы Пять минут тишины
 https://cdn-dvr.ntv.ru/5_minut_tishiny/tracks-v1a1/rewind-240.ts.m3u8
 
+#EXTINF:-1, VINTAGE TITS(18+)VHS TV
+#EXTGRP:Film(18+)
+https://v2.catcast.tv/content/47776/seg-25410762-v1-a1/index.m3u8
+#EXTINF:-1,Звещая тишина(18+)
+#EXTGRP:Film(18+)
+https://v2.catcast.tv/content/37532/seg-25549897-v1-a1/index.m3u8
+#EXTINF:-1,MGM HD(18+)
+#EXTGRP:Film(18+)
+https://v2.catcast.tv/content/50354/seg-25564832-v1-a1/index.m3u8
+#EXTINF:-1,Kino1 18+
+#EXTGRP:Film(18+)
+https://v2.catcast.tv/content/40381/seg-25410640-v1-a1/index.m3u8
+#EXTINF:-1,Cerry tv 18
+#EXTGRP:Film(18+)
+https://v2.catcast.tv/content/42938/seg-25410811-v1-a1/index.m3u8
+#EXTINF:-1,Nocnoy Girl(18+)
+#EXTGRP:Film(18+)
+https://v2.catcast.tv/content/46233/seg-25410894-v1-a1/index.m3u8
+#EXTINF:-1,Komu za 18
+#EXTGRP:Film(18+)
+https://v2.catcast.tv/content/37358/seg-25411076-v1-a1/index.m3u8
