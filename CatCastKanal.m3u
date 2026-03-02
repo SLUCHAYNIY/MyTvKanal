@@ -364,7 +364,7 @@ https://host.onlineradyotv.net:8081/sdmtv/tracks-v1a1/mono.m3u8
 http://75.119.144.48/KUZEYMAXHD_STREAM/index.m3u8
 
 
-#EXTINF:-1,Komedi Turk
+#EXTINF:-1 tvg-logo="https://img.catcast.tv/uploads/10042025/logos/14862-67f7da5a4db6c.png",Komedi Turk
 #EXTGRP:TURK(URL)
 https://v2.catcast.tv/content/48591/seg-25410428-v1-a1/index.m3u8
 #EXTINF:-1,Hababam tv
