@@ -53,12 +53,12 @@ https://live.eltv.az/live/eltv/chunklist_w1920626794.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/SxR28nX0/Qafqaz-TV-2017-h-h.png", Qafqaz TV
 #EXTGRP:Azerbaycan
 http://str.yodacdn.net/qafkaz/tracks-v1a1/mono.ts.m3u8
-#EXTINF:-1 tvg-logo="https://i.postimg.cc/B6mXwfJs/1757189222142.png", TV 36
+#EXTINF:-1 tvg-logo="https://i.imgur.com/fr0eFRT.png", TV 36
 #EXTGRP:Azerbaycan
 http://cdn-stv.yayin.com.tr/stv/stv/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.postimg.cc/zGN8RtQC/In-Shot-20250209-192718561.png", İsmayıllı TV
 #EXTGRP:Azerbaycan
-https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan55555/playlist.m3u8
+https://live20.bozztv.com/akamaissh101/ssh101/azerbaycan12345/playlist.m3u8
 #EXTINF:-1 tvg-logo="https://i.imgur.com/cRxhxdA.png", ŞİRVAN TV
 #EXTGRP:Azerbaycan
 https://a8.radyotelekom.com.tr/p/3326/hybrid/play.m3u8
@@ -496,6 +496,24 @@ https://v2.catcast.tv/content/50450/seg-25549542-v1-a1/index.m3u8
 #EXTINF:-1,Kral Turk film
 #EXTGRP:TURK(URL)
 https://v2.catcast.tv/content/50457/seg-25548447-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Music Nastolji
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50737/seg-25826706-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Max Yesilcam
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50735/seg-25826729-v1-a1/index.m3u8
+#EXTINF:-1,Fanatik Max Korku
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50717/seg-25826740-v1-a1/index.m3u8
+#EXTINF:-1,fanatik prime Ed Stafford ile Kurtuluş Öyküleri
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50693/seg-25826748-v1-a1/index.m3u8
+#EXTINF:-1,fanatik prime kurtlar vadisi
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50688/seg-25826752-v1-a1/index.m3u8
+#EXTINF:-1,Kanal F Muzik
+#EXTGRP:TURK
+https://v2.catcast.tv/content/50744/seg-25826761-v1-a1/index.m3u8
 
 
 #EXTINF:-1,Yansimaslowsarkilar
