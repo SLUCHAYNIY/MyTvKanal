@@ -103,22 +103,22 @@ https://catcast.ismailturret.workers.dev/mrbean.m3u8
 #EXTINF:-1 tvg-name="MEGA Saban"tvg-logo="https://img.catcast.tv/uploads/04062025/banners/48695-683f783bd2ce8.png",MEGA Saban
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/48695/seg-25460342-v1-a1/index.m3u8
-#EXTINF:-1,Şaban tv
+#EXTINF:-1 tvg-logo="https://raw.githubusercontent.com/ekiptv/Logo/main/saban-tv.png",Şaban tv
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50543/seg-25649090-v1-a1/index.m3u8
-#EXTINF:-1,Az Film
+#EXTINF:-1 tvg-logo="https://i.postimg.cc/VkdXZ2VX/In-Shot-20260216-091910542.png",Az Film
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50545/seg-25649109-v1-a1/index.m3u8
-#EXTINF:0 tvg-rec="0",Buglama[BY-Kerimoff]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Buğlama tv
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-buglama.m3u8
-#EXTINF:0 tvg-rec="0",Comedyxana[BY-Kerimoff]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", Komedixana tv
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-comedyxana.m3u8
-#EXTINF:0 tvg-rec="0",AZ-Comedy[BY-Kerimoff]
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png", AZkomedi tv
 #EXTGRP:Azerbaycan
 https://raw.githubusercontent.com/BY-KERIMOFF/yeni/refs/heads/main/catcast/by-kerimoff-azcomedy.m3u8
-#EXTINF:-1,by-Vetendash A az
+#EXTINF:-1 tvg-logo="https://i.imgur.com/tCz7czL.png",Vetendash_A az
 #EXTGRP:Azerbaycan
 https://v2.catcast.tv/content/50250/seg-25410296-v1-a1/index.m3u8
 
